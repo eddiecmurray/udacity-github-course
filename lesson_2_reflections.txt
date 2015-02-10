@@ -5,3 +5,16 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Staging area is a buffer before changes are saved as a committ in the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Use git diff to compare working directory and staging for a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Adding additional features, trying new features, adding additional languages.
+
+How do the diagrams help you visualize the branch structure?
+
+	It is easy to see the different branches and how 'detached head' works'
+
