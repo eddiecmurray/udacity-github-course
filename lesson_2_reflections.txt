@@ -18,3 +18,11 @@ How do the diagrams help you visualize the branch structure?
 
 	It is easy to see the different branches and how 'detached head' works'
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Had some trouble with the merge.  May need to review it again, unclear how to deal with conflicts.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	I understand merging better now and how to deal with conflicts.  Pros, easy to merge new features or additions to code, cons it can sometimes taker time to review other peoples changes before completing a merge.
+
